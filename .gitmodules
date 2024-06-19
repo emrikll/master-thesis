@@ -1,0 +1,6 @@
+[submodule "MT-C"]
+	path = MT-C
+	url = git@github.com:emrikll/MT-C.git
+[submodule "mt-rust"]
+	path = mt-rust
+	url = git@github.com:viloz1/mt-rust.git
